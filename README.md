@@ -1,31 +1,28 @@
 <h1 align="center">Hi 👋, I'm Arjun Hari K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A cybersecurity enthusiast from India, focused on Blue Team operations and SOC analysis</h3>
 
-- 🔭 I’m currently working on **I'm currently working on developing an e-commerce website, and I've also led projects like a Django-based chatbot, an Instagram clone, and implemented website scraping to extract and utilize real-time data efficiently.**
+- 🔭 I'm currently working on **building hands-on cybersecurity homelabs — recently deployed a Wazuh SIEM to monitor a Windows host using File Integrity Monitoring**
 
-- 🌱 I’m currently learning **DevOps tools and practices:**
-   - CI/CD, Docker, Kubernetes
-   - Cloud deployment using platforms like AWS and Azure
-   - Advanced web scraping techniques
-   - Scalable backend development with Django and REST APIs
-   - Monitoring and logging with tools like Prometheus and Grafana
-   - Infrastructure as Code (IaC) using Terraform and Ansible
+- 🌱 I'm currently learning
+   - SIEM tools — Wazuh, Splunk
+   - Threat detection, log analysis, and incident response
+   - Network security and traffic analysis with Wireshark and Suricata
+   - GRC fundamentals — risk management, compliance frameworks (NIST, ISO 27001)
+   - Cloud security basics on AWS and Azure
 
-- 👯 I’m looking to collaborate on **👯 **I’m looking to collaborate on** projects involving full-stack web development, data scraping, or innovative tech solutions where I can contribute my skills in Django, frontend development, and automation.**
+- 👯 I'm looking to collaborate on **Blue Team projects, CTF challenges, or anything involving threat detection, log analysis, or security automation**
 
-- 🤝 I’m looking for help with **🤝 **I’m looking for help with** enhancing my skills in scalable backend development, mastering advanced web scraping techniques, and gaining real-world experience in business operations and tech-driven project management.**
+- 🤝 I'm looking for help with **breaking into SOC roles, understanding real-world incident response workflows, and building a strong cybersecurity portfolio**
 
 - 💬 Ask me about:
-   - Full-stack development and Django projects
-   - DevOps practices and tools (CI/CD, Docker, Kubernetes)
-   - Advanced web scraping techniques
-   - Cloud services integration (AWS, Azure)
-   - Automation in development workflows
-   - Infrastructure as Code (Terraform, Ansible)
+   - SIEM deployment and configuration
+   - File Integrity Monitoring and endpoint security
+   - DevOps and full-stack background (Django, Docker, CI/CD)
+   - How a developer transitions into cybersecurity
 
 - 📫 How to reach me **arjunhari708@gmail.com**
 
-- ⚡ Fun fact **I have a knack for connecting seemingly unrelated ideas and technologies to create innovative solutions. Whether it’s blending design with code or integrating cloud services with real-time data, I love making things work seamlessly!**
+- ⚡ Fun fact **I come from a frontend and DevOps background — which means I think about security from both the builder's and the defender's perspective**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
