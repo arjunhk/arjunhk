@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Hari K</h1>
-<h3 align="center">A cybersecurity enthusiast from India, focused on Blue Team operations and SOC analysis</h3>
+<h3 align="center">InfoSec Fresher at Neumetric, focused on GRC and Security Operations</h3>
 
-- 🔭 I'm currently working on **building hands-on cybersecurity homelabs — recently deployed a Wazuh SIEM to monitor a Windows host using File Integrity Monitoring**
+-🔭 I'm currently working on **GRC and InfoSec Operations work at Neumetric, alongside expanding my home SIEM lab with Suricata IDS integration**
 
 - 🌱 I'm currently learning
    - SIEM tools — Wazuh, Splunk
@@ -10,9 +10,9 @@
    - GRC fundamentals — risk management, compliance frameworks (NIST, ISO 27001)
    - Cloud security basics on AWS and Azure
 
-- 👯 I'm looking to collaborate on **Blue Team projects, CTF challenges, or anything involving threat detection, log analysis, or security automation**
+- 👯 I'm looking to collaborate on **GRC documentation, Blue Team projects, CTF challenges, or anything involving threat detection and log analysis**
 
-- 🤝 I'm looking for help with **breaking into SOC roles, understanding real-world incident response workflows, and building a strong cybersecurity portfolio**
+- 🤝 Always happy to connect with others in InfoSec, GRC, or SOC Analysis
 
 - 💬 Ask me about:
    - SIEM deployment and configuration
